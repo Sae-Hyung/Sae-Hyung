@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sae-Hyung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sae-Hyung&layout=compact)</div>
+<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sae-Hyung&layout=compact) </div>
 
 [![SaeHyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sae-Hyung)](https://github.com/Sae-Hyung/github-readme-stats)
 
