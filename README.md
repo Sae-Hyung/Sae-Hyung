@@ -2,7 +2,7 @@
 
 <div align=center>
 <h3 align="center">💻 Solved.ac 💻</h3>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
   <br>
   <br>
   
