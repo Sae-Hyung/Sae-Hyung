@@ -6,3 +6,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=vitamin1996)](https://solved.ac/vitamin1996)
+
+<a href="mailto:vitamin9011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
