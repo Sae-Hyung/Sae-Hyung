@@ -1,4 +1,4 @@
-![헤더](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=김세형입니다.)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sae-Hyung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 [![SaeHyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sae-Hyung)](https://github.com/Sae-Hyung/github-readme-stats)
 
