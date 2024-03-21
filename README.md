@@ -1,6 +1,6 @@
-
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sae-Hyung's%20GitHub%20👋&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
+<br>
+<br>
 
 <div align=center>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
