@@ -3,11 +3,12 @@
 <br>
 
 <div align=center>
+<h3 align="center">💻 Solved.ac 💻</h3>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
   <br>
   <br>
   
-<h3 align="center">:clipboard: Once I've Used</h3> 
+<h3 align="center">📋 Once I've Used 📋</h3> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
