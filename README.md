@@ -5,7 +5,7 @@
 <div align=center>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
   <br>
-:clipboard: Once I've Used 
+  :clipboard: Once I've Used 
   <br>
 </div>
 
