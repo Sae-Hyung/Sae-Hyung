@@ -11,6 +11,7 @@
   <br>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=vitamin1996" alt="Solved.ac Profile">
   <br>
+  <br>
 </div>
 
 <h3 align="center">📞 Contact 📞</h3> 
