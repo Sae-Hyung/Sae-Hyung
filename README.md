@@ -9,6 +9,7 @@
   
 <h3 align="center">:clipboard: Once I've Used</h3> 
   <br>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 </div>
 
 <h3 align="center">📞 Contact 📞</h3> 
