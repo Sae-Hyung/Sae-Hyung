@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Sae-Hyung's%20GitHub%20👋&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-<br>
-<br>
+
 
 <div align=center>
 <h3 align="center">💻 Solved.ac 💻</h3>
